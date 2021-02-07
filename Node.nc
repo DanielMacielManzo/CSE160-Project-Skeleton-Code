@@ -22,6 +22,10 @@ module Node{
    uses interface SimpleSend as Sender;
 
    uses interface CommandHandler;
+
+   //output of flodding
+   uses interface Flooding;
+
 }
 
 implementation{

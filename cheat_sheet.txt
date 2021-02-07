@@ -1,0 +1,1 @@
+docker run -v ~/cse160:/home/cse160 -ti cse160_project
